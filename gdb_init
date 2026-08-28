@@ -1,0 +1,4 @@
+b main.c:5
+target remote localhost:1425
+load kernel.elf
+
