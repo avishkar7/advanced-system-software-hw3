@@ -2,9 +2,6 @@
 
 > Part of the [Advanced System Software](https://github.com/avishkar7/advanced-system-software) portfolio.
 
-> **Status — work in progress.** The kernel source is included. I will add the
-> write-up and any remaining documents.
-
 ## Assignment
 
 Implement a minimal cooperative multitasking kernel on a bare-metal RISC-V
